@@ -1,0 +1,13 @@
+{
+  "db": {
+    "test": "mongodb://localhost:27017/testDB",
+    "prod": "mongodb://localhost:27017/prodDB",
+    "dev": "mongodb://localhost:27017/devDB"
+  },
+
+  "port": {
+    "test": 3333,
+    "prod": 3000,
+    "dev": 5555
+  }
+}

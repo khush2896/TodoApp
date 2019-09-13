@@ -1,0 +1,103 @@
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"admin1234","level":"info"}
+{"message":"user already exists","action":"ERROR IN REGISTERING USER","success":false,"user":"admin1234","level":"error"}
+{"message":"user validated  sucessfully","action":"LOGIN","success":true,"user":"admin1234","level":"info"}
+{"message":"user profile details","action":"autheticate","success":true,"user":"admin1234","level":"info"}
+{"data":"go for a walk","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"admin1234","level":"info"}
+{"data":"","message":"Tasks validation failed: work: Path `work` is required.","action":"ADDITION","success":false,"user":"admin1234","level":"error"}
+{"data":"go to hell","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"admin1234","level":"info"}
+{"data":"take me for date","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"admin1234","level":"info"}
+{"data":"take abcbdbdd","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"admin1234","level":"info"}
+{"data":"take abcbdbdd","message":"list of all task that exist in todolist ","action":"LISTING","success":true,"user":"admin1234","level":"info"}
+{"data":"take abcbdbdd","message":"status of a task in todolist updated successfully","action":"UPDATE STATUS","success":true,"user":"admin1234","level":"info"}
+{"data":"take abcbdbdd","message":"list of all task that exist in todolist ","action":"LISTING","success":true,"user":"admin1234","level":"info"}
+{"data":"go for heaven","message":"task updated succcesfully in the todolist","action":"UPDATE TASK","success":true,"user":"admin1234","level":"info"}
+{"data":"go for heaven","message":"list of all task that exist in todolist ","action":"LISTING","success":true,"user":"admin1234","level":"info"}
+{"data":"go for heaven","message":"cannot update the task as it is already done","action":"UPDATE TASK","success":false,"user":"admin1234","level":"error"}
+{"data":"go for heaven","message":"task deleted succesfully","action":"DELETE","success":true,"user":"admin1234","level":"info"}
+{"data":"go for heaven","message":"list of all task that exist in todolist ","action":"LISTING","success":true,"user":"admin1234","level":"info"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"ashish12","level":"info"}
+{"message":"user validated  sucessfully","action":"LOGIN","success":true,"user":"ashish12","level":"info"}
+{"data":"go for heaven","message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"ashish12","level":"error"}
+{"data":"go for heaven","message":"unauthorized, not the creator","action":"DELETE","success":false,"user":"ashish12","level":"error"}
+{"data":"go for heaven","message":"list of all task that exist in todolist ","action":"LISTING","success":true,"user":"admin1234","level":"info"}
+{"data":"go for heaven","message":"status of a task in todolist updated successfully","action":"UPDATE STATUS","success":true,"user":"admin1234","level":"info"}
+{"data":"go for heaven","message":"status of a task in todolist updated successfully","action":"UPDATE STATUS","success":true,"user":"admin1234","level":"info"}
+{"data":"go for heaven","message":"E11000 duplicate key error collection: prodDB.tasks index: work_1 dup key: { : \"go for heaven\" }","action":"ADDITION","success":false,"user":"admin1234","level":"error"}
+{"data":"go for heaven","message":"list of all task that exist in todolist ","action":"LISTING","success":true,"user":"admin1234","level":"info"}
+{"data":"take me for a date","message":"unauthorized, not the creator","action":"UPDATE TASK","success":false,"user":"ashish12","level":"error"}
+{"message":"user validated  sucessfully","action":"LOGIN","success":true,"user":"admin1234","level":"info"}
+{"data":"","message":"Tasks validation failed: work: Path `work` is required.","action":"ADDITION","success":false,"user":"admin1234","level":"error"}
+{"data":"","message":"Tasks validation failed: work: Path `work` is required.","action":"ADDITION","success":false,"user":"admin1234","level":"error"}
+{"data":"","message":"Tasks validation failed: work: Path `work` is required.","action":"ADDITION","success":false,"user":"admin1234","level":"error"}
+{"data":"","message":"Tasks validation failed: work: Path `work` is required.","action":"ADDITION","success":false,"user":"admin1234","level":"error"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"admin1234","level":"info"}
+{"message":"user validated  sucessfully","action":"LOGIN","success":true,"user":"admin1234","level":"info"}
+{"data":"","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"admin1234","level":"info"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Adminuser","level":"info"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Admnuser","level":"info"}
+{"message":"user already exists","action":"ERROR IN REGISTERING USER","success":false,"user":"Admnuser","level":"error"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Admnuseewewer","level":"info"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Admnuseewjjewer","level":"info"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Admnuseewjjewer1","level":"info"}
+{"message":"user already exists","action":"ERROR IN REGISTERING USER","success":false,"user":"Admnuseewjjewer1","level":"error"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Admnuseewjjewer11","level":"info"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Admnuseewjjeyywer11","level":"info"}
+{"message":"id is not defined","action":"ERROR IN REGISTERING USER","success":false,"user":"Admnuseewjjeywwer11","level":"error"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Admnuseewjjeywwer116","level":"info"}
+{"message":"_id is not defined","action":"ERROR IN REGISTERING USER","success":false,"user":"Admnu555","level":"error"}
+{"message":"user already exists","action":"ERROR IN REGISTERING USER","success":false,"user":"Admnu555","level":"error"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Admnu557","level":"info"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"Admnuuu557","level":"info"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"khushboo","level":"info"}
+{"message":"user validated  sucessfully","action":"LOGIN","success":true,"user":"khushboo","level":"info"}
+{"message":"user validated  sucessfully","action":"LOGIN","success":true,"user":"khushboo","level":"info"}
+{"message":"user profile details","action":"autheticate","success":true,"user":"khushboo","level":"info"}
+{"message":"user profile details","action":"autheticate","success":true,"user":"khushboo","level":"info"}
+{"data":"ewew","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"khushboo","level":"info"}
+{"data":"qwwww","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"khushboo","level":"info"}
+{"data":"qwwww","message":"task already exist in todolist with status false","action":"ADDITION","success":false,"user":"khushboo","level":"error"}
+{"message":"cannot delete task from todolist as status is false","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"task deleted succesfully","action":"DELETE","success":true,"user":"khushboo","level":"info"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"cannot delete task from todolist as status is false","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"task deleted succesfully","action":"DELETE","success":true,"user":"khushboo","level":"info"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"khushboo","level":"info","data":"aaaa"}
+{"message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"khushboo","level":"info","data":"aaaabbbbbbbb"}
+{"message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"khushboo","level":"info","data":"aaaabbbbbbbbcccccccc"}
+{"message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"khushboo","level":"info","data":"aaaabbbbbbbbccccccccdddddddddddd"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property 'length' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property 'length' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"status of a task in todolist updated successfully","action":"UPDATE STATUS","success":true,"user":"khushboo","level":"info"}
+{"message":"status already set to true","action":"UPDATE STATUS","success":false,"user":"khushboo","level":"error"}
+{"message":"status already set to true","action":"UPDATE STATUS","success":false,"user":"khushboo","level":"error"}
+{"message":"task deleted succesfully","action":"DELETE","success":true,"user":"khushboo","level":"info"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property '_doc' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property 'length' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"Cannot read property 'length' of null","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"no such data found","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"cannot delete task from todolist as status is false","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"task deleted succesfully","action":"DELETE","success":true,"user":"khushboo","level":"info"}
+{"message":"no such data found","action":"DELETE","success":false,"user":"khushboo","level":"error"}
+{"message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"khushboo","level":"info","data":"aaaabbbbbbbbccccccccdddddddddddd"}
+{"message":"task already exist in todolist with status false","action":"ADDITION","success":false,"user":"khushboo","level":"error","data":"aaaabbbbbbbbccccccccdddddddddddd"}
+{"data":"aaaabbbbbbbbccccccccdddddddddddd","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"khushboo","level":"info"}
+{"data":"aaaabbbbbbbbccccccccdddddddddddd","message":"task already exist in todolist with status false","action":"ADDITION","success":false,"user":"khushboo","level":"error"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"abcdefgh","level":"info"}
+{"message":"user validated  sucessfully","action":"LOGIN","success":true,"user":"abcdefgh","level":"info"}
+{"data":"go to walk","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"abcdefgh","level":"info"}
+{"data":"go to walk","message":"task already exist in todolist with status false","action":"ADDITION","success":false,"user":"abcdefgh","level":"error"}
+{"data":"go to walk","message":"task added succesfully to todo list","action":"ADDITION","success":true,"user":"abcdefgh","level":"info"}
+{"data":"go to walk","message":"task already exist in todolist with status false","action":"ADDITION","success":false,"user":"abcdefgh","level":"error"}
+{"message":"user created sucessfully","action":"USER REGISTER","success":true,"user":"divaa12","level":"info"}
